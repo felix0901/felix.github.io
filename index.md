@@ -1,6 +1,6 @@
 Sheng-Chun Kao
 ===
-![.](./feix_the_cat.jpg)
+![.](feix_the_cat.jpg)
 ### Felix Kao
 chuchu40507[at]gmail.com , [Git](github.com/felix0901) , [Linkedin](https://www.linkedin.com/in/sheng-chun-kao-felix0901/) ,Atlanta GA 
 
