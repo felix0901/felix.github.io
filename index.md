@@ -1,6 +1,6 @@
 Sheng-Chun Kao
 ===
-![.](feix_the_cat.jpg)
+![.](./image/feix_the_cat.jpg)
 ### Felix Kao
 chuchu40507[at]gmail.com , [Git](github.com/felix0901) , [Linkedin](https://www.linkedin.com/in/sheng-chun-kao-felix0901/) ,Atlanta GA 
 
@@ -14,6 +14,7 @@ My current Ph.D research is mainly on ML-assisted DNN accelerator design, where 
 ## Projects
 ### [ML for DNN Accelerator Design](http://maestro.ece.gatech.edu/), GaTech, GA                                                     
 * Developing different optimization methods (RL, GA, ES-based) for hardware design space exploration 
+
 ### Deep Neural Network Optimization, GaTech, GA							   				
 * Developing and researching on Platform-aware Neural Architecture Search
 Co-optimizing architecture and deployment strategy with an open-source HW cost model, MAESTRO
